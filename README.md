@@ -1,5 +1,5 @@
 # Tarot Cards App
-Tarot Readings allows users to get tarot readings.
+Tarot Cards allows users to get tarot readings.
 
 Developed using SwiftUI. 
 
